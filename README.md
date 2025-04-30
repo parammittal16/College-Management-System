@@ -1,5 +1,5 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    COLLEGE MANAGEMENT SYSTEM
 </h1>
 
 <h3 align="center">
@@ -41,7 +41,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/meowmeow9567/College-Management-System.git
 ```
 Open 2 terminals in separate windows/tabs.
 
